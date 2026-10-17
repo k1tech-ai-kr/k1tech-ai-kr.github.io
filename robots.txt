@@ -1,0 +1,4 @@
+User-agent: *
+# AdMob이 app-ads.txt를 읽어야 판매자 인증이 된다. 검색 비공개여도 이 파일은 연다.
+Allow: /app-ads.txt
+Disallow: /
